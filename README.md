@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game [here](https://githubschool.github.io/github-games/)
+You can play the game [here](https://SeredaOM.github.io/github-games/)
 =======
 
 1. Press the space bar to begin.
